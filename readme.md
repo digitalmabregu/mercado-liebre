@@ -11,3 +11,9 @@ Mercado Liebre es una aplicación web que permite a los usuarios comprar y vende
 - JavaScript
 - Node.js
 - Express
+
+### Instalación
+
+1. Clonar el repositorio
+2. Instalar las dependencias
+3. Iniciar el servidor
